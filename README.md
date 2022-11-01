@@ -17,7 +17,7 @@ I'm a full stack developer from Philippines. Focusing on different things as lon
 - 🔭 🌱 I’m currently working on different aspects of life to make the world a better place
 - 🤔 I hate greedy people; I hate Land Devs; I hate people innovating in a wrong way
 - 📫 How to reach me: Linkedin
-- ⚡ Fun fact : Nature lover
+- ⚡ Fun fact : Environmentalist
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
