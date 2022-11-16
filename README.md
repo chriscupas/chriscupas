@@ -60,7 +60,7 @@
     </a>
   </div>
   <h1>
-    👋 hey there
+    🔨Better men make a better world
   </h1>
 </div>
 
