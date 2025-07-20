@@ -15,11 +15,16 @@
 I'm a full stack developer from Philippines. Focusing on different things as long as it is open source. 
 
 - 🔭 🌱 I’m currently working on different aspects of life to make the world a better place
-- 🤔 I hate greedy people; I hate Land Devs; I hate people innovating in a wrong way
+- 🤔 I hate greedy people
 - 📫 How to reach me: Linkedin
 - ⚡ Fun fact : Environmentalist
 ---
-### :hammer_and_wrench: Languages and Tools :
+### 🌍 Constantly evolving tech stack — always learning:
+
+<p><a href="https://stackshare.io/chriscupas">
+      See more stack I use ...
+</a></p>
+<br />
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
