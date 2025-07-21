@@ -21,10 +21,9 @@ I'm a full stack developer from Philippines. Focusing on different things as lon
 ---
 ### 🌍 Constantly evolving tech stack — always learning:
 
+See more stack I use ...
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/chriscupas/my-stack)
-<p><a href="https://stackshare.io/chriscupas">
-      See more stack I use ...
-</a></p>
+
 <br />
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
