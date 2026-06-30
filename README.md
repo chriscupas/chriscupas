@@ -14,7 +14,7 @@
 
 I'm a full stack developer from Philippines. Focusing on different things as long as it is open source. 
 
-- 🔭 🌱 I’m currently working on different aspects of life to make the world a better place
+- 🌱 I’m currently working on different aspects of life to make the world a better place
 - 🤔 I hate greedy people
 - 📫 How to reach me: Linkedin
 - ⚡ Fun fact : Environmentalist
